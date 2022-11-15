@@ -1,6 +1,6 @@
 # Kannada-MNIST classification
 
-[Kannada-MNIST dataset](https://www.kaggle.com/c/Kannada-MNIST/discussion/122158): a MNIST-like classification dataset (10 classes).
+[Kannada-MNIST dataset](https://www.kaggle.com/c/Kannada-MNIST/discussion/122158): a MNIST-like classification dataset (10 classes). Code in PyTorch.
 
 ## Approach
 
